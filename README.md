@@ -9,8 +9,7 @@
 
 ## HTML
 
-´´´html
-
+```html
 <section id='js-carousel'>
 
   <div class='js-carousel__item'> </div>
@@ -25,5 +24,4 @@
   <span class='js-carousel__bt--prev'> </span>
   <span class='js-carousel__bt--next'> </span>
 </section>
-
-´´´
+```
